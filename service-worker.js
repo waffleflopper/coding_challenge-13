@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zeroDevs/coding_challenge-13/precache-manifest.45483ac97624da99b5e5c7f4525005d6.js"
+  "/coding_challenge-13/precache-manifest.2eeafbc4467e6b0e2a7ac113fa830ef9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/zeroDevs/coding_challenge-13/index.html", {
+workbox.routing.registerNavigationRoute("/coding_challenge-13/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
