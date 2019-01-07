@@ -1,7 +1,7 @@
 {
-  "main.css": "/coding_challenge-13/static/css/main.26ba50be.chunk.css",
-  "main.js": "/coding_challenge-13/static/js/main.a71ebb9c.chunk.js",
-  "main.js.map": "/coding_challenge-13/static/js/main.a71ebb9c.chunk.js.map",
+  "main.css": "/coding_challenge-13/static/css/main.1dc25c62.chunk.css",
+  "main.js": "/coding_challenge-13/static/js/main.6abd37b5.chunk.js",
+  "main.js.map": "/coding_challenge-13/static/js/main.6abd37b5.chunk.js.map",
   "static/js/1.fdad92c7.chunk.js": "/coding_challenge-13/static/js/1.fdad92c7.chunk.js",
   "static/js/1.fdad92c7.chunk.js.map": "/coding_challenge-13/static/js/1.fdad92c7.chunk.js.map",
   "runtime~main.js": "/coding_challenge-13/static/js/runtime~main.78d08d1a.js",
@@ -11,8 +11,8 @@
   "static/media/logo.psd": "/coding_challenge-13/static/media/logo.b740f464.psd",
   "static/media/logo1alt.psd": "/coding_challenge-13/static/media/logo1alt.ebb669c4.psd",
   "static/media/bg-wave-desktop.svg": "/coding_challenge-13/static/media/bg-wave-desktop.3e3206c5.svg",
-  "static/css/main.26ba50be.chunk.css.map": "/coding_challenge-13/static/css/main.26ba50be.chunk.css.map",
+  "static/css/main.1dc25c62.chunk.css.map": "/coding_challenge-13/static/css/main.1dc25c62.chunk.css.map",
   "index.html": "/coding_challenge-13/index.html",
-  "precache-manifest.2eeafbc4467e6b0e2a7ac113fa830ef9.js": "/coding_challenge-13/precache-manifest.2eeafbc4467e6b0e2a7ac113fa830ef9.js",
+  "precache-manifest.85393a61b731eb0707902523e65df034.js": "/coding_challenge-13/precache-manifest.85393a61b731eb0707902523e65df034.js",
   "service-worker.js": "/coding_challenge-13/service-worker.js"
 }
